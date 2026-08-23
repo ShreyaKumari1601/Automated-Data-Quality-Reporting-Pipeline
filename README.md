@@ -1,4 +1,4 @@
-Automated Data Quality & Reporting Pipeline
+#Automated Data Quality & Reporting Pipeline
 
 An end-to-end Python-based Data Quality and Reporting Pipeline that ingests messy multi-source e-commerce data, performs automated data validation, cleans and transforms the data, loads the processed data into **MySQL**, and generates recurring business reports.
 
