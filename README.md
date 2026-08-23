@@ -650,7 +650,6 @@ This project demonstrates practical skills in:
 * Pandas
 * SQL
 * MySQL
-* SQLAlchemy
 * Data Cleaning
 * Data Validation
 * Data Quality
@@ -670,4 +669,4 @@ This project demonstrates practical skills in:
 
 **Shreya Kumari**
 
-GitHub: `https://github.com/YOUR_USERNAME`
+https://github.com/ShreyaKumari1601
